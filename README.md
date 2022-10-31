@@ -5,7 +5,7 @@ An analysis of women who had infiltrating duct and lobular carcinoma breast canc
 Breast cancer, the second most common cancer in women after skin cancer and the most common cancer globally, accounting for 12.5% of all new annual cancer cases worldwide. Out of curiosity, I carried out this analysis to educate myself more and create awareness. 
 
 # DATASET
-The dataset was sourced from Kaggle and it contains 4024 patients with infiltrating duct and lobular carcinoma breast cancer that is, a type of breast that begins in the milk-producing glands of the breast. It also contains 16 fields which makes up the columns of the dataset.
+The dataset was sourced from Kaggle and it contains 4024 patients with infiltrating duct and lobular carcinoma breast cancer that is, a type of breast cancer that begins in the milk-producing glands of the breast. It also contains 16 fields which makes up the columns of the dataset.
 
 # DATA ASSESSMENT AND CLEANING
 To make sense of a data, it is essential to understand the dataset and access the various fields. To carry out this action, I uploaded the dataset into Microsoft Excel. By doing this, I realized there was a lot I didn’t know so that lead me to doing a lot of research on the dataset. 
