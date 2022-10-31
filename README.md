@@ -26,11 +26,9 @@ the analysis revealed that there are more white women than black and other races
 
 * Hormonal factors: it has been proved that a woman’s risk of breast cancer is related to the estrogen and progesterone made by her ovaries and being exposed for a long time and/or to high levels of these hormones has been linked to an increased risk of breast cancer. This analysis proved that majority of the patients had positive estrogen and progesterone levels and about 82% of the patients tested positive for both hormones.
 
-* Cancer stages
-This describes the size of the tumor and how far it has spread from where it originated. In about 97.7% of the patients, the cancer is at the REGIONAL stage which means that it has spread to nearby lymph nodes or organs and in about 3.3%, the cancer is at the DISTANT stage and has spread to distant parts of the body which is more fatal.
+* Cancer stages: This describes the size of the tumor and how far it has spread from where it originated. In about 97.7% of the patients, the cancer is at the REGIONAL stage which means that it has spread to nearby lymph nodes or organs and in about 3.3%, the cancer is at the DISTANT stage and has spread to distant parts of the body which is more fatal.
 
-* Cancer grades
-This describes the appearance of the cancerous cells. Numbers are assigned to represent the differentiation of the cancer cells. More patients have moderately differentiated and poorly differentiated carcinoma than well differentiated and undifferentiated carcinoma.
+* Cancer grades: This describes the appearance of the cancerous cells. Numbers are assigned to represent the differentiation of the cancer cells. More patients have moderately differentiated and poorly differentiated carcinoma than well differentiated and undifferentiated carcinoma.
 
 # VISUALIZATION
 I utilized different charts on power bi to display my analysis. Afterwards, I compiled all the charts into a well detailed dashboard. 
