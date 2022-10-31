@@ -37,4 +37,4 @@ I utilized different charts on power bi to display my analysis. Afterwards, I co
 
 * To view and interact with the dashboard, click on the link below.
 
-https://app.powerbi.com/groups/me/reports/752d2ff6-2ae0-414a-8d20-48bffa8fc40c/ReportSection
+https://app.powerbi.com/view?r=eyJrIjoiYWE2ODc2YjQtMjliZC00NjY3LWE5OTMtZjc1NjUxOTk5ZGJiIiwidCI6IjRlNTQwMzY1LTJjMjYtNDcyYS1iNDVmLTk1MTZlZmRjZThiNiJ9
